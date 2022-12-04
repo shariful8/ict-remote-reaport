@@ -1,0 +1,12 @@
+#include<stdio>
+main()
+{
+float n1, n2 result;
+char sign;
+printf("Enter your two numbers");
+scanf("%f%f", &n1&n2);
+printf("Enter your sign");
+scanf("%c", &sign);
+if(sign=='+');}
+{result=n1+n2};
+}
